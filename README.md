@@ -1,4 +1,4 @@
-# FPGA Geometry Dash
+# FPGA Geometry Dash Project
 
 ## Overview
 This project is a bare-metal hardware implementation of the popular game "Geometry Dash", designed to run directly on an FPGA SoC. Written entirely in C/C++, it bypasses traditional operating systems to interact directly with the FPGA's underlying hardware IP blocks. The game features real-time physics, custom VGA rendering, hardware-accelerated random level generation, and dual-core Asymmetric Multiprocessing (AMP) for perfectly synchronized high-fidelity audio playback.
